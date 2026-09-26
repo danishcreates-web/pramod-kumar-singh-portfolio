@@ -7,13 +7,14 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://pramodkumarsingh.online/pramod-kumar-singh.jpg</image:loc>
-      <image:title>Pramod Kumar Singh</image:title>
+      <image:title>Pramod Kumar Singh - Jaunpur, Uttar Pradesh</image:title>
+      <image:caption>Public profile photograph of Pramod Kumar Singh</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://pramodkumarsingh.online/updates.html</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
