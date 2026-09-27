@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://pramodkumarsingh.online/sitemap.xml
+Host: pramodkumarsingh.online
