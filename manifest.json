@@ -1,9 +1,16 @@
 {
-  "name": "Pramod Kumar Singh Portfolio",
-  "short_name": "PKS Portfolio",
+  "name": "Pramod Kumar Singh",
+  "short_name": "PKS",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#080a0d",
-  "theme_color": "#080a0d",
-  "icons": []
+  "background_color": "#f7f5ef",
+  "theme_color": "#0b3a2f",
+  "icons": [
+    {
+      "src": "/pks-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
